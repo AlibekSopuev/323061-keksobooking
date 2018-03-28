@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алибек Сопуев](https://up.htmlacademy.ru/javascript/13/user/323061).
-* Наставник: `Неизвестно`.
+* Наставник: `Мурат Баркинхоев`.
 
 ---
 

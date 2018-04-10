@@ -15,7 +15,7 @@ var titles = ["Большая уютная квартира", "Маленька�
 var types = ["palace", "flat", "house", "bungalo"];
 var checkins = ["12:00", "13:00", "14:00"];
 var featuresOf = ["wifi", "dishwasher", "parking", "washer", "elevator", "conditioner"];
-var photosOf = ["http://o0.github.io/assets/images/tokyo/hotel1.jpg", "http://o0.github.io/assets/images/tokyo/hotel2.jpg" и "http://o0.github.io/assets/images/tokyo/hotel3.jpg"];
+var photosOf = ["http://o0.github.io/assets/images/tokyo/hotel1.jpg", "http://o0.github.io/assets/images/tokyo/hotel2.jpg", "http://o0.github.io/assets/images/tokyo/hotel3.jpg"];
 
 var card = {
   "author": {

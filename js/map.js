@@ -19,7 +19,7 @@ var photosOf = ["http://o0.github.io/assets/images/tokyo/hotel1.jpg", "http://o0
 
 var card = {
   "author": {
-    "avatar": '0' + extractRandom(avatars) + '.png';
+    "avatar": '0' + extractRandom(avatars) + '.png'
   },
 
   "offer": {

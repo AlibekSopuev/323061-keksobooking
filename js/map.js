@@ -1,6 +1,4 @@
-const imgNameArray = [0,1,2,3,4,5,6,7,8];
-
-const maxImagesPush = 6;
+'use strict';
 
 function random(min, max) {
   const diff = max - min + 1;
@@ -11,6 +9,7 @@ function extractRandom(list) {
   const index = random(0, list.length - 1);
   return list.splice(index, 1).shift();
 }
+
 var avatars = [0,1,2,3,4,5,6,7,8];
 var titles = ["Большая уютная квартира", "Маленькая неуютная квартира", "Огромный прекрасный дворец", "Маленький ужасный дворец", "Красивый гостевой домик", "Некрасивый негостеприимный домик", "Уютное бунгало далеко от моря", "Неуютное бунгало по колено в воде"];
 var types = ["palace", "flat", "house", "bungalo"];

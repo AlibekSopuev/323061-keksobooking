@@ -1,12 +1,12 @@
 'use strict';
 
 function random(min, max) {
-  const diff = max - min + 1;
+  var diff = max - min + 1;
   return Math.floor(Math.random() * diff) + min;
 }
 
 function extractRandom(list) {
-  const index = random(0, list.length - 1);
+  var index = random(0, list.length - 1);
   return list.splice(index, 1).shift();
 }
 

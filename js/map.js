@@ -23,7 +23,7 @@ var card = {
   },
 
   "offer": {
-    "title": extractRandom(titles);
+    "title": extractRandom(titles),
     "address": "{{location.x}}, {{location.y}}",
     "price": random(1000, 1000000),
     "type": extractRandom(types),

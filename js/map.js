@@ -38,7 +38,7 @@ var card = {
 
   'location': {
     'x': random(300, 900),
-    'y": random(150, 500)
+    'y': random(150, 500)
   }
 };
 console.log(card.author.avatar);
